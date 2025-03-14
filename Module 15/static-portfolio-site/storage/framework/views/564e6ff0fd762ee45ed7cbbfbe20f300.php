@@ -1,0 +1,1 @@
+<h1>Portfolio Page</h1><?php /**PATH C:\Users\USER\Desktop\Ostad Classes\PHP_BATCH6\M15_C3\static-portfolio-site\resources\views/portfolio.blade.php ENDPATH**/ ?>
